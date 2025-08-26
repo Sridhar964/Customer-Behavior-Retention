@@ -1,7 +1,7 @@
 # Customer-Behavior-Retention
 SQL queries for customer, order, and revenue analysis in e-commerce datasets.
 
-Overview
+Overview :-
 This project is built using MySQL to explore and analyze customer and order data.
 The main goal is to understand customer behavior, sales performance, and revenue trends through SQL queries.
 
@@ -9,7 +9,8 @@ Think of it as a mini business intelligence project — showing how raw data can
 
 
 
-Key Insights
+Key Insights:-
+
 Some of the insights that came out of the analysis:
 
 A handful of high-value customers contribute a large share of revenue.
